@@ -1,0 +1,54 @@
+BUSINESS SALES PERFORMANCE ANALYTICS
+INSIGHTS AND RECOMMENDATIONS
+
+KEY BUSINESS INSIGHTS:
+
+1. Overall Business Performance
+The business generated approximately $2.30 million in total sales and $286.18 thousand in total profit from 5,009 orders. The overall profit margin was 12.46%.
+
+2. Sales and Profit Trend
+Sales increased substantially from 2015 onward, with 2017 recording the highest annual sales and profit in the analyzed period. This indicates stronger business performance toward the end of the period.
+
+3. Seasonal Sales Pattern
+Sales varied significantly by month. November recorded the highest monthly sales at approximately $352.46 thousand, while February recorded the lowest at approximately $59.75 thousand. Sales were particularly high during September to December.
+
+4. Category Performance
+Technology generated the highest total sales and profit among the three categories. Furniture generated relatively high sales but had a much lower profit margin of approximately 2.49%, compared with approximately 17.40% for Technology and 17.04% for Office Supplies.
+
+5. Regional Performance
+The West region generated the highest sales and profit among the four regions, with approximately $725.46 thousand in sales and $108.42 thousand in profit.
+
+6. Loss-Making Sub-Categories
+Tables, Bookcases, and Supplies recorded negative total profit. Tables had the largest loss at approximately $17.73 thousand.
+
+7. Discount and Profitability
+Higher discount levels were generally associated with lower profitability in the analyzed dataset. Several higher discount levels recorded negative total profit. This shows the importance of evaluating discounts together with profitability.
+
+8. Sales Do Not Always Mean Profitability
+High sales do not necessarily result in high profit. Furniture is an example of a category with relatively high sales but a much lower profit margin. Some sub-categories also generated sales while recording negative profit.
+
+BUSINESS RECOMMENDATIONS:
+
+1. Optimize Discounting
+Review high-discount transactions and establish discount strategies that protect profitability. Discounts should be evaluated alongside product and category margins.
+
+2. Improve Furniture Profitability
+Analyze Furniture products to identify the impact of pricing, discounts, product costs, and product-level profitability. Focus on improving margin rather than increasing sales alone.
+
+3. Investigate Loss-Making Sub-Categories
+Conduct product-level analysis for Tables, Bookcases, and Supplies to identify products contributing most to losses. Review their pricing, discounts, costs, and sales performance.
+
+4. Plan for Seasonal Demand
+Use the observed monthly sales pattern to plan inventory, promotions, and sales resources ahead of high-demand periods, particularly September through December.
+
+5. Monitor Top-Selling Products
+Track the availability, sales performance, and profitability of top-selling products. High sales should be evaluated together with profit to ensure that strong revenue also contributes to business performance.
+
+6. Focus on Profitable Growth
+Use Sales, Profit, and Profit Margin together when evaluating products, categories, and regions. Business decisions should focus on profitable growth rather than sales growth alone.
+
+ANALYSIS NOTE:
+
+The discount analysis identifies an association between higher discount levels and lower profitability in this dataset. It does not establish that higher discounts directly caused the losses. Further analysis would be required to determine causation.
+
+The insights and recommendations are based on the cleaned Superstore sales dataset used for this project.
